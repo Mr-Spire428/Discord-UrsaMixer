@@ -2,7 +2,7 @@ from PyQt5.QtDesigner import QPyDesignerCustomWidgetPlugin, QDesignerFormEditorI
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QWidget
 
-from .interface.tracks_dock import TracksDock
+from ursa.interface.tracks_dock import TracksDock
 
 
 class PyTracksDockPlugin(QPyDesignerCustomWidgetPlugin):

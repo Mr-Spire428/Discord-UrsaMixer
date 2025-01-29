@@ -2,7 +2,7 @@ from PyQt5.QtDesigner import QPyDesignerCustomWidgetPlugin, QDesignerFormEditorI
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QWidget
 
-from .interface.vradioview import VRadioView
+from ursa.interface.vradioview import VRadioView
 
 
 class PyVRadioViewPlugin(QPyDesignerCustomWidgetPlugin):

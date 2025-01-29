@@ -2,7 +2,7 @@ from PyQt5.QtDesigner import QPyDesignerCustomWidgetPlugin, QDesignerFormEditorI
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import QWidget
 
-from .interface.guild_dock import GuildDock
+from ursa.interface.guild_dock import GuildDock
 
 
 class PyGuildDockPlugin(QPyDesignerCustomWidgetPlugin):
