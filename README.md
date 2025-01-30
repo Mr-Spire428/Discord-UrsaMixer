@@ -1,3 +1,5 @@
+**NOTICE: This project is no longer being worked on and will no longer be receiving updates.**
+
 # UrsaMixer
 Discord bot for DM audio playlists
 
